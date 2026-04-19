@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Mountains",
+      "author": "Alice",
+      "content": "Mountains are beautiful and full of adventure.",
+      "likes": 34
+    },
+    {
+      "id": 2,
+      "title": "Tech Trends 2026",
+      "author": "Bob",
+      "content": "AI and automation are shaping the future.",
+      "likes": 78
+    },
+    {
+      "id": 3,
+      "title": "Healthy Living Tips",
+      "author": "Charlie",
+      "content": "Eat well, sleep enough, and exercise regularly.",
+      "likes": 52
+    },
+    {
+      "id": 4,
+      "title": "Travel Guide: Japan",
+      "author": "Diana",
+      "content": "Japan offers a mix of tradition and modern life.",
+      "likes": 91
+    },
+    {
+      "id": 5,
+      "title": "Learning JavaScript",
+      "author": "Eve",
+      "content": "Start with basics and build small projects.",
+      "likes": 66
+    }
+  ]
+}
